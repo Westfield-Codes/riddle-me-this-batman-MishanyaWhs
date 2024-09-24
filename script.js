@@ -1,5 +1,5 @@
-function bellRiddle(){
-  var answer = prompt("Why is an orange like a bell? Because they both must be ...");
-  if (answer == "peeled" || answer == "pealed") alert("Correct!");
-  else alert("Wrong, Batman! Watch the video, and try again.");
+function secondRiddle(){
+  var answer = prompt("What gets bigger when you get more of it?...");
+  if (answer == "hole") alert("Correct!");
+  else alert("Nope try again (:");
 }
